@@ -30,3 +30,7 @@ scan complete(scan 65535 ports, 2 ports up
 use -h to get more information!
 
 ```
+
+# More
+
+If there is any bugs on my program or some question about it ,you are welcome.
