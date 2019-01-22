@@ -43,8 +43,22 @@ useful port:72
 useful port:79
 useful port:80
 useful port:94
+useful port:141
+useful port:146
+useful port:147
+useful port:150
+useful port:173
+useful port:175
+useful port:179
+useful port:189
+useful port:216
+useful port:219
+useful port:225
+useful port:226
+useful port:240
 
-scan complete(scan 65535 ports, 8 ports up
+
+scan complete(scan 65535 ports, 21 ports up
 
 use -h to get more information!
 ```
