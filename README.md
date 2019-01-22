@@ -19,6 +19,8 @@ $./EasyScanner 127.0.0.1 1-66535
 ```
 # Just Use it to Scaner Everything In The Internet!
 
+Example:
+
 ```
 $ ./EasyScanner 127.0.0.1
 
@@ -30,6 +32,23 @@ scan complete(scan 65535 ports, 2 ports up
 use -h to get more information!
 
 ```
+```
+$ ./EasyScanner 123.125.115.110
+invoking allports scan partuseful port:5
+useful port:19
+useful port:55
+useful port:64
+useful port:67
+useful port:72
+useful port:79
+useful port:80
+useful port:94
+
+scan complete(scan 65535 ports, 8 ports up
+
+use -h to get more information!
+```
+
 
 # More
 
