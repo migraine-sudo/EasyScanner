@@ -1,9 +1,10 @@
 # EasyScanner
+
 a simple TCPscanner in test --have fun！！！
 
-Now you can use use this program with one command 
-
 # PlatForm:Linux
+
+Now you can use use this program with one command on linux
 
 # Installation
 ```
