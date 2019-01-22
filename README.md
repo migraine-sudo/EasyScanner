@@ -3,15 +3,16 @@ a simple TCPscanner in test --have fun！！！
 
 Now you can use use this program with one command 
 
-PlatForm:Linux
+# PlatForm:Linux
 
 # Installation
 ```
 $gcc -o EasyScanner EasyScanner.c
 ```
 # How to Use it
+Example:
 ```
-$./EasyScanner 127.0.0.1 /or any other 
+$./EasyScanner 127.0.0.1 
 
 $./EasyScanner 127.0.0.1 1-66535
 ```
